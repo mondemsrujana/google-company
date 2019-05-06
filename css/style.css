@@ -1,0 +1,21 @@
+footer{
+  background: #000;
+  color: white;
+  text-align: center;
+
+}
+header{
+  width:"50%";
+  align:middle;
+  text-align: center;
+  background: red;
+  color: blue;
+}
+img{
+  boarder_radius:20%;
+}
+.box{
+  text-align: center;
+  color: pink;
+  box-shadow: 2px 2px 2px 2px pink;
+}
