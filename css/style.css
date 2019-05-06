@@ -4,6 +4,7 @@ footer{
   text-align: center;
 
 }
+/* header */
 header{
   width:"50%";
   align:middle;
@@ -12,7 +13,7 @@ header{
   color: blue;
 }
 img{
-  boarder_radius:20%;
+  border-radius: 20%;
 }
 .box{
   text-align: center;
